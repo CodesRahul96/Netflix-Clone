@@ -2,4 +2,5 @@
 
 Live Project Link: https://cr-netflixclone.netlify.app/
 #
-![Laptop-2-1280x800](https://user-images.githubusercontent.com/118264222/219931899-8f9f82f6-c6f3-459a-934d-b55140d8c507.png)
+![Laptop-2-1280x800](https://github.com/CodesRahul/Netflix-Clone/blob/main/src/assets/natflix1.png?raw=true)
+![Laptop-2-1280x800](https://github.com/CodesRahul/Netflix-Clone/blob/main/src/assets/netflix2.png?raw=true)
