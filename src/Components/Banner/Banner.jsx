@@ -3,7 +3,7 @@ import {API_KEY,imageUrl} from '../../constants/constants'
 import axios from '../../axios'
 import './Banner.css'
 
-function Banner() {
+const Banner = () => {
   const [movie, setMovie] = useState()
   useEffect(() => {
    axios.get(`trending/all/week?api_key=${API_KEY}&language=en-US`).then((response)=>{

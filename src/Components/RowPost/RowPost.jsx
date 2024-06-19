@@ -4,7 +4,7 @@ import "./RowPost.css";
 import { imageUrl, API_KEY } from "../../constants/constants";
 import axios from "../../axios";
 
-function RowPost(props) {
+const RowPost = (props) => {
   const [movies, setMovies] = useState([]);
   const [urlId, seturlId] = useState("");
 
